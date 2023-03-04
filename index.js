@@ -32,12 +32,12 @@ let verificaco = ano.getFullYear() - idade
 
 console.log(verificaco)
 
-if(verificaco < 18){
+/*if(verificaco < 18){
     console.log("nao pode dirigir")
 }
 else{
     console.log("pode dirigir")
-}
+}*/
 
 
 
